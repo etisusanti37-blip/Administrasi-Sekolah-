@@ -1,0 +1,8 @@
+{
+  "name": "Aplikasi Tabel Penilaian Guru",
+  "description": "Aplikasi tabel penilaian guru untuk semua jenjang dan mata pelajaran. Dilengkapi penilaian diagnostik, formatif, sumatif materi, STS, SAS, rekap rapor, cetak, ekspor Excel, dan tindak lanjut.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
